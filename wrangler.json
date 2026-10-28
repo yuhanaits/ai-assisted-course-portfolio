@@ -1,0 +1,8 @@
+{
+  "name": "ai-cps-api",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-10-01",
+  "vars": {
+    "OPENAI_MODEL": "gpt-4.1-mini"
+  }
+}
